@@ -7,6 +7,3 @@ And I used the [classic snapshot system](https://developer.valvesoftware.com/wik
 You can use this to share anything, not just a mere 2D position.
 
 **tl;dr: It has a fully finished and working position snapshot system, as expected from all FPS + it displays a minor bug if you emulate high ping**
-
-### License
-lmao
